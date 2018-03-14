@@ -1,0 +1,23 @@
+/*  
+* COMENTARIO CSS
+*/
+
+body{
+	background: #b8cef2;
+}
+
+h1, h3, p{
+	color: #002a6d;
+}
+
+table {
+    border-collapse: collapse; 
+    width: 35%;
+}
+
+td, th {
+    border: 1px solid #282233;
+    text-align: left;
+    padding: 4px;
+}
+
